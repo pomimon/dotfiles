@@ -4,3 +4,5 @@ alias reload="exec ${SHELL} -l"
 alias cdp='cd ~/projects'
 
 alias ls="lsd -la"
+
+alias gs='git status'
